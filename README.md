@@ -2,6 +2,8 @@ I adapted an exercise from one of Ed Donner's Udemy courses to compare the model
 
 I'm not sure why some of the models have `cache read` stats and others don't. I don't recall running the command with those models multiple times.
 
+Also, a few of the Rust files still had comments or markdown that needed to be cleaned up.
+
 My Copilot quota usage went from 8% to 12% genrating the Rust files.
 
 Rust files were compiled and run on an M1 Macbook Pro.
