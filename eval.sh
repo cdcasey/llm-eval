@@ -88,4 +88,4 @@ done
 
 echo "--------------------------------"
 echo "Done. Run this to verify compilation:"
-echo "for f in result_*.rs; do rustc \"\$f\" $COMPILE_CMD -o \"\${f%.rs}\" && echo \"✅ \$f\"; done"
+echo "for f in result_*.rs; do rustc \"\$f\" $COMPILE_CMD -o \"bin/\${f%.rs}\" && echo \"✅ \$f\"; done"
