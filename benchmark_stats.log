@@ -1,0 +1,104 @@
+=== Results for claude-sonnet-4.5 ===
+
+Total usage est:       1 Premium request
+Total duration (API):  7s
+Total duration (wall): 10s
+Total code changes:    0 lines added, 0 lines removed
+Usage by model:
+    claude-sonnet-4.5    20.5k input, 640 output, 0 cache read (Est. 1 Premium request)
+=== Results for claude-haiku-4.5 ===
+
+Total usage est:       0.33 Premium requests
+Total duration (API):  18s
+Total duration (wall): 22s
+Total code changes:    0 lines added, 0 lines removed
+Usage by model:
+    claude-haiku-4.5     106.2k input, 1.9k output, 83.6k cache read (Est. 0.33 Premium requests)
+=== Results for claude-opus-4.5 ===
+
+Total usage est:       3 Premium requests
+Total duration (API):  20s
+Total duration (wall): 23s
+Total code changes:    0 lines added, 0 lines removed
+Usage by model:
+    claude-opus-4.5      41.8k input, 1.4k output, 0 cache read (Est. 3 Premium requests)
+=== Results for claude-sonnet-4 ===
+
+Total usage est:       1 Premium request
+Total duration (API):  25s
+Total duration (wall): 29s
+Total code changes:    0 lines added, 0 lines removed
+Usage by model:
+    claude-sonnet-4      86.2k input, 2.4k output, 63.2k cache read (Est. 1 Premium request)
+=== Results for gpt-5.1-codex-max ===
+
+Total usage est:       1 Premium request
+Total duration (API):  15s
+Total duration (wall): 18s
+Total code changes:    0 lines added, 0 lines removed
+Usage by model:
+    gpt-5.1-codex-max    15.3k input, 1.0k output, 1.8k cache read (Est. 1 Premium request)
+=== Results for gpt-5.1-codex ===
+
+Total usage est:       1 Premium request
+Total duration (API):  12s
+Total duration (wall): 15s
+Total code changes:    0 lines added, 0 lines removed
+Usage by model:
+    gpt-5.1-codex        15.3k input, 1.8k output, 0 cache read (Est. 1 Premium request)
+=== Results for gpt-5.2 ===
+
+Total usage est:       1 Premium request
+Total duration (API):  26s
+Total duration (wall): 29s
+Total code changes:    0 lines added, 0 lines removed
+Usage by model:
+    gpt-5.2              14.5k input, 1.2k output, 0 cache read (Est. 1 Premium request)
+=== Results for gpt-5.1 ===
+
+Total usage est:       1 Premium request
+Total duration (API):  21s
+Total duration (wall): 25s
+Total code changes:    0 lines added, 0 lines removed
+Usage by model:
+    gpt-5.1              14.5k input, 1.5k output, 0 cache read (Est. 1 Premium request)
+=== Results for gpt-5 ===
+
+Total usage est:       1 Premium request
+Total duration (API):  17s
+Total duration (wall): 20s
+Total code changes:    0 lines added, 0 lines removed
+Usage by model:
+    gpt-5.1-codex-max    15.3k input, 1.3k output, 10.0k cache read (Est. 1 Premium request)
+=== Results for gpt-5.1-codex-mini ===
+
+Total usage est:       0.33 Premium requests
+Total duration (API):  2m 47.625s
+Total duration (wall): 2m 57.712s
+Total code changes:    0 lines added, 0 lines removed
+Usage by model:
+    gpt-5.1-codex-mini   312.4k input, 11.7k output, 299.4k cache read (Est. 0.33 Premium requests)
+=== Results for gpt-5-mini ===
+
+Total usage est:       0 Premium requests
+Total duration (API):  34s
+Total duration (wall): 37s
+Total code changes:    0 lines added, 0 lines removed
+Usage by model:
+    gpt-5-mini           14.5k input, 2.2k output, 0 cache read (Est. 0 Premium requests)
+=== Results for gpt-4.1 ===
+
+Total usage est:       0 Premium requests
+Total duration (API):  11s
+Total duration (wall): 14s
+Total code changes:    0 lines added, 0 lines removed
+Usage by model:
+    gpt-4.1              14.3k input, 575 output, 0 cache read (Est. 0 Premium requests)
+=== Results for gemini-3-pro-preview ===
+
+Total usage est:       1 Premium request
+Total duration (API):  1m 31.121s
+Total duration (wall): 1m 34.36s
+Total code changes:    0 lines added, 0 lines removed
+Usage by model:
+    gemini-3-pro-preview 27.5k input, 664 output, 0 cache read (Est. 1 Premium request)
