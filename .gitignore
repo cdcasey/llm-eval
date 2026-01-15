@@ -6,7 +6,8 @@ dist/
 wheels/
 *.egg-info
 
-bin
+bin/*
+!bin/lcg.py
 
 # Virtual environments
 .venv
