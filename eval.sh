@@ -78,7 +78,8 @@ $PYTHON_CODE
 echo "--------------------------------"
 for model in "${MODELS[@]}"; do
     echo "🚀 Asking $model..."
-    OUTFILE="result_${model}.rs"
+    SAFE_FILE_NAME="${model//./_}"
+    OUTFILE="result_${SAFE_FILE_NAME}.rs"
     echo "=== Results for $model ===" >> benchmark_stats.log
     # Run Copilot with the enhanced prompt
     copilot -p "$PROMPT" --model "$model" > "$OUTFILE" 2>> benchmark_stats.log
