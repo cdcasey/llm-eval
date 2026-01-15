@@ -1,12 +1,10 @@
+I adapted an exercise from one of Ed Donner's Udemy courses to compare models on Github Copilot. After the shell script was complete, I ran it to generate the Rust code. I then used Claude code run the generated binaries and collect the output into this file. I then asked Opus to look at each file to evaluate the solution. I also looked at the Rust files, but Opus knows way more about Rust than I do.
+
 I'm not sure why some of the models have `cache read` stats and others don't. I don't recall running the command with those models multiple times.
 
-My quota usage went from 8% to 12%.
+My Copilot quota usage went from 8% to 12% genrating the Rust files.
 
-On my M1 Mac I compiled the Rust source with the following command:
-
-```bash
-for f in result_*.rs; do rustc "$f" -C opt-level=3 -C target-cpu=native -C codegen-units=1 -C lto=fat -C panic=abort -o "${f%.rs}" && echo "✅ $f"; done
-```
+Rust files were compiled and run on an M1 Macbook Pro.
 
 I am currently running `rustc 1.67.1` (I don't do a lot of Rust development).
 
